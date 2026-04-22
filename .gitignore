@@ -1,0 +1,12 @@
+# Ignore compiled executables and build artifacts
+# Add any extra names you compile to (for example: math_tetris)
+math_tetris
+a.out
+*.o
+*.out
+*.exe
+*.dSYM/
+build/
+bin/
+# core dump
+core
